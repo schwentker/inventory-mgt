@@ -20,10 +20,3 @@ Built with **Next.js**, **TypeScript**, and a modular component architecture.
 - [shadcn/ui](https://ui.shadcn.com/) (UI component library)
 - Cloudflare Workers / Pages for deployment (`wrangler.toml` present)
 
-## Getting Started
-
-Clone the repo:
-
-```bash
-git clone https://github.com/schwentker/inventory-mgt.git
-cd inventory-mgt
